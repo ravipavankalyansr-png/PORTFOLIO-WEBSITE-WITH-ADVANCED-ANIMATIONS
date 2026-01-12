@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #0f172a;
+    color: white;
+}
+
+header {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero-text h1 {
+    font-size: 3rem;
+}
+
+.hero-text span {
+    color: #38bdf8;
+}
+
+.hero-text p {
+    margin-top: 10px;
+    opacity: 0.8;
+}
+
+section {
+    padding: 60px 10%;
+    background: #020617;
+    margin: 20px;
+    border-radius: 12px;
+}
+
+h2 {
+    color: #38bdf8;
+    margin-bottom: 20px;
+}
+
+.skills span {
+    display: inline-block;
+    background: #1e293b;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 5px;
+    transition: 0.3s;
+}
+
+.skills span:hover {
+    background: #38bdf8;
+    color: black;
+    transform: scale(1.1);
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    opacity: 0.6;
+}
