@@ -6,7 +6,6 @@ DOMAIN : FRONT END DEVELOPMENT
 DURATION:  4 WEEKS
 MENTOR NAME : NEELA SANTOSH
 OUTPUT 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ba896489-53ff-42d4-b90a-92a96ea41ef5" />
 
 **In this task, I developed a personal portfolio website using HTML, CSS, and JavaScript. The main aim of this website is to present my personal information, educational background, technical skills, and project details in a simple and attractive way. A portfolio website is very useful for students because it helps in showing our knowledge and abilities to others in an organized manner.
 
