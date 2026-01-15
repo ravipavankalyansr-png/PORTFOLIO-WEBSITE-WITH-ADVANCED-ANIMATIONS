@@ -5,8 +5,12 @@ INTERN ID : CTIS3304
 DOMAIN : FRONT END DEVELOPMENT
 DURATION:  4 WEEKS
 MENTOR NAME : NEELA SANTOSH
-OUTPUT 
+OUTPUT for task 1 
 <img width="1887" height="881" alt="Image" src="https://github.com/user-attachments/assets/2b8e7c99-5910-4960-90ab-7f00704f598c" />
+
+output for task 2
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/316ce07e-0730-4533-8083-487ccfeea5d8" />
+
 **In this task, I developed a personal portfolio website using HTML, CSS, and JavaScript. The main aim of this website is to present my personal information, educational background, technical skills, and project details in a simple and attractive way. A portfolio website is very useful for students because it helps in showing our knowledge and abilities to others in an organized manner.
 
 The structure of the website is created using HTML. HTML is used to design the basic layout of the webpage. It helps in arranging content such as headings, paragraphs, lists, and sections. Different sections like Home, About Me, Skills, and Projects are created to make the website easy to navigate. HTML acts as the foundation of the website and ensures that the content is displayed correctly in the browser.
