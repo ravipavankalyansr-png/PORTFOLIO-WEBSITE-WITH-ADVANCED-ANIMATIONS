@@ -5,6 +5,7 @@ INTERN ID : CTIS3304
 DOMAIN : FRONT END DEVELOPMENT
 DURATION:  4 WEEKS
 MENTOR NAME : NEELA SANTOSH
+i have submitted att the task output 
 OUTPUT for task 1 
 <img width="1887" height="881" alt="Image" src="https://github.com/user-attachments/assets/2b8e7c99-5910-4960-90ab-7f00704f598c" />
 
